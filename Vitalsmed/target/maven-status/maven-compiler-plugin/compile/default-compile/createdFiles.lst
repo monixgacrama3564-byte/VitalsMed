@@ -1,8 +1,0 @@
-com/trithread/vitalsmed/VitalsMedApplication.class
-com/trithread/vitalsmed/model/Patient.class
-com/trithread/vitalsmed/model/User.class
-com/trithread/vitalsmed/repository/PatientRepository.class
-com/trithread/vitalsmed/controller/PatientController.class
-com/trithread/vitalsmed/repository/UserRepository.class
-com/trithread/vitalsmed/service/AuthService.class
-com/trithread/vitalsmed/controller/AuthController.class
