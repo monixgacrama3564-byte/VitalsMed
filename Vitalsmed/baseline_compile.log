@@ -1,0 +1,12 @@
+[[31;1mERROR[0m] Some problems were encountered while processing the POMs
+[[31;1mERROR[0m] The build could not read 1 project -> [1m[Help 1][0m[m
+[[31;1mERROR[0m]   
+[[31;1mERROR[0m]   The project com.trithread:vitalsmed:0.0.1-SNAPSHOT (/workspaces/VitalsMed/Vitalsmed/pom.xml) has 2 errors
+[[31;1mERROR[0m]     'dependencies.dependency.version' for groupId='mysql', artifactId='mysql-connector-j', type='jar' is missing. @ line 27, column 9
+[[31;1mERROR[0m]     'dependencies.dependency.version' for groupId='mysql', artifactId='mysql-connector-j', type='jar' is missing. @ line 27, column 9
+[[31;1mERROR[0m] 
+[[31;1mERROR[0m] To see the full stack trace of the errors, re-run Maven with the '[1m-e[0m' switch
+[[31;1mERROR[0m] Re-run Maven using the '[1m-X[0m' switch to enable verbose output
+[[31;1mERROR[0m] 
+[[31;1mERROR[0m] For more information about the errors and possible solutions, please read the following articles:
+[[31;1mERROR[0m] [1m[Help 1][0m http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
